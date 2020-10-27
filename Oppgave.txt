@@ -1,0 +1,14 @@
+
+-  Implementer generell Node-klasse og Tre-klasse i samsvar med lysarka, men node-klassa skal berre ha verdi og LinkedList, ikkje peikar til forelder og treet.
+    Legg inn alle dei traverseringsmetodane vi har sett på - ulike traverseringsrekkefylgjer og ulike teknikkar, rekursive og ikkje-rekursive.
+    Lag main() som opprettar eit tre, legg inn ein del nodar, og kallar traverseringsmetodar slik at dei skriv ut verdiane. Sjekk at alt fungerer.
+
+
+
+    Lag rekursiv metode som finn ut og returnerer høgda til treet. Kall på den frå main og skriv ut svaret.
+    Den rekursive kan ligge i Tre eller i Node, vurdér kva du vil implementere. Eller test begge!
+
+
+    Eksamen 2012.
+    Implementer tilsvarande klasser for node og tre, men for binærtre.
+    Lag ein grafisk applikasjon som kan teikne ut eit binærtre, med sirkel rundt nodeverdien og strek mellom forelder-barn.
